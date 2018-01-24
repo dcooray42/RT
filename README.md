@@ -109,6 +109,9 @@ veuillez changer par avance la configuration de votre clavier.
 ## Licence
 * SDL 2.0 - zlib license
 
+## Note
+58/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
