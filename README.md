@@ -5,21 +5,23 @@ Dernier projet de la branche graphique pré-stage de l'école 42.
 Ce projet est dans la continuité directe du projet précédent, RTv1. Il reprend la partie obligatoire et bonus du projet RTv1 
 comme partie obligatoire et non noté. Seuls les ajouts bonus de ce projet seront évalués.
 
-Voici les bonus présent en plus de la partie obligatoire dans le programme :
-* Fichier de description de scene
+Voici les bonus présents en plus de la partie obligatoire dans le programme :
+* Fichier de description de scène
 * Lumière d'ambiance
 * Perturbation de la normal (bruit de perlin)
 * Perturbation de la couleur (damier)
 * Lumière directe
-* Reflexion, refraction et transparence
-* Effets visuls (antialliasing, filtre noir et blanc, filtre sepia)
+* Réflexion, réfraction et transparence
+* Effets visuels (antialliasing, filtre noir et blanc, filtre sépia)
 * Effet technique (multithreading)
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
+
+**Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
 
 #### Systeme d'exploitation
 
@@ -69,7 +71,7 @@ make re
 
 ## Faire des tests
 
-Une fois que le programme a été crée, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + le fichier 
+Une fois que le programme a été créé, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + le fichier 
 de description de scène.
 
 ### Utilisation du programme
