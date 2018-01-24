@@ -23,7 +23,7 @@ Ces instructions vous aideront à avoir une copie du projet et de pouvoir le fai
 
 **Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
 
-#### Systeme d'exploitation
+#### Système d'exploitation
 
 ```
 macOS Sierra
@@ -44,6 +44,7 @@ Se placer dans le dossier dans lequel vous avez fait la copie des fichiers sourc
 ```
 make
 ```
+
 Plusieurs fichiers .o auront fait leur apparitions dans le dossier que vous avez cloné ainsi que le binaire
 
 ```
@@ -111,3 +112,6 @@ veuillez changer par avance la configuration de votre clavier.
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Enzo Pimenta**
+* **Salam Dahmouch**
+* **Fabien Rajaonarison**
