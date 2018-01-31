@@ -99,8 +99,8 @@ veuillez changer par avance la configuration de votre clavier.
 | ESC    | Quitter                  |
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/rt.jpeg?token=AT6ePBc2BTVNjrnPZ-9bjS3AqKU1aPhHks5acfb3wA%3D%3D)
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/rt_2.jpeg?token=AT6ePIbfj9j2lJ7-kgt-zxKlR6R0HULWks5acfcOwA%3D%3D)
+![alt text](https://raw.githubusercontent.com/konamifox/RT/master/photo/rt_1.jpeg)
+![alt text](https://raw.githubusercontent.com/konamifox/RT/master/photo/rt_2.jpeg)
 
 ## Compiler avec
 * SDL 2.0 - Librairie graphique
