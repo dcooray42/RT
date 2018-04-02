@@ -34,7 +34,7 @@ macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/RT.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/RT.git [nom du PATH/dossier]
 ```
 
 ### Installation
@@ -99,8 +99,8 @@ veuillez changer par avance la configuration de votre clavier.
 | ESC    | Quitter                  |
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/RT/master/photo/rt_1.jpeg)
-![alt text](https://raw.githubusercontent.com/konamifox/RT/master/photo/rt_2.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RT/master/photo/rt_1.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/RT/master/photo/rt_2.jpeg)
 
 ## Compiler avec
 * SDL 2.0 - Librairie graphique
@@ -114,7 +114,7 @@ veuillez changer par avance la configuration de votre clavier.
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
 * **Enzo Pimenta**
 * **Salam Dahmouch**
 * **Fabien Rajaonarison**
